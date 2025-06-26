@@ -1,7 +1,7 @@
 Mechanics - Mechanical Simulations 
 =====================================================================
 
-Mechanical module to perform purely mechanical simulations.
+Mechanical module to perform purely mechanical simulations developed by Maria Giuseppina Chiara Nestola and Marco Favino.
 The module can be loaded in whale framework.
 
 Technical comments:
